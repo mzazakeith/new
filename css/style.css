@@ -1,0 +1,22 @@
+h1 {
+  color: #0000FF;
+  text-align: center;
+}
+h2 {
+  color: #05AE00;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+}
+body {
+  background-color: #2E2E2E;
+}
+ol {
+  line-height: 20px;
+  color: #540000;
+}
